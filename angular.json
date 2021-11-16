@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "EmployeePayroll"
+    }
+  },
+  "defaultProject": "EmployeePayroll",
+  "cli": {
+    "analytics": false
+  }
 }
